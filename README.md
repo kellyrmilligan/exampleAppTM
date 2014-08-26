@@ -38,3 +38,4 @@ this will run the dev task. This will start a few things needed for development:
 * grunt-webpack - this will watch the client side files and rebundle the client-side app
 * grunt-watch - this will watch the templates and css directory to re-compile the associated files
 
+The app will be running at http://localhost:8000
