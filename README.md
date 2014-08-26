@@ -39,3 +39,12 @@ this will run the dev task. This will start a few things needed for development:
 * grunt-watch - this will watch the templates and css directory to re-compile the associated files
 
 The app will be running at http://localhost:8000
+
+## Running tests
+
+Karma test runner is used to execute the tests, which are written using mocha, chai, and sinonjs. To execute the tests, from the root
+of the project run:
+
+    $grunt kamra:ci
+
+
