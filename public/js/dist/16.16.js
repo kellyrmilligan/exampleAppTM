@@ -33,7 +33,7 @@ webpackJsonp([16,18],{
 	'use strict';
 	
 	var Marionette = __webpack_require__(26),
-	    _ = __webpack_require__(31),
+	    _ = __webpack_require__(30),
 	    $ = __webpack_require__(32),
 	    Backbone = __webpack_require__(14),
 	    BaseView;

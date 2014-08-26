@@ -3960,6 +3960,10 @@ video {
   color: #555;
   padding: 10px;
 }
+.byline .created {
+  text-align: right;
+  width: 60%;
+}
 .byline .creator {
   margin-left: 5px;
 }

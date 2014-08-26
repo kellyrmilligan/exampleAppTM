@@ -71,7 +71,7 @@ webpackJsonp([13,17,18],{
 	
 	var BaseView = __webpack_require__(75),
 	    Backbone = __webpack_require__(14),
-	    _ = __webpack_require__(31),
+	    _ = __webpack_require__(30),
 	    stateModel = __webpack_require__(8),
 	    SearchView;
 	
@@ -174,7 +174,7 @@ webpackJsonp([13,17,18],{
 	'use strict';
 	
 	var Marionette = __webpack_require__(26),
-	    _ = __webpack_require__(31),
+	    _ = __webpack_require__(30),
 	    $ = __webpack_require__(32),
 	    Backbone = __webpack_require__(14),
 	    BaseView;

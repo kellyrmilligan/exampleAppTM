@@ -92,7 +92,7 @@ webpackJsonp([14,18],{
 	});
 	
 	module.exports = IndexView;
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(31)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(30)))
 
 /***/ },
 
@@ -102,7 +102,7 @@ webpackJsonp([14,18],{
 	'use strict';
 	
 	var Backbone = __webpack_require__(14),
-	    _ = __webpack_require__(31),
+	    _ = __webpack_require__(30),
 	    IndexModel;
 	/**
 	 * Model for the index page
@@ -131,7 +131,7 @@ webpackJsonp([14,18],{
 	'use strict';
 	
 	var Marionette = __webpack_require__(26),
-	    _ = __webpack_require__(31),
+	    _ = __webpack_require__(30),
 	    $ = __webpack_require__(32),
 	    Backbone = __webpack_require__(14),
 	    BaseView;

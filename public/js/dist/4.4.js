@@ -4,7 +4,7 @@ webpackJsonp([4,18],{
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(dust) {(function(){dust.register("header",body_0);function body_0(chk,ctx){return chk.write("<header class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\"><div class=\"container\"><div class=\"navbar-header\"><span class=\"glyphicon glyphicon-search\"></span><a class=\"navbar-brand\" href=\"/\">Tastemade</a></div></div></header>");}return body_0;})();
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(27)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(28)))
 
 /***/ }
 

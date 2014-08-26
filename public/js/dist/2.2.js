@@ -4,7 +4,7 @@ webpackJsonp([2,18],{
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(dust) {(function(){dust.register("error",body_0);var blocks={"body":body_1};function body_0(chk,ctx){ctx=ctx.shiftBlocks(blocks);return chk.partial("layout-error",ctx,null);}function body_1(chk,ctx){ctx=ctx.shiftBlocks(blocks);return chk.write("<h1>").reference(ctx.get(["message"], false),ctx,"h").write("</h1><p>").reference(ctx.getPath(false, ["error","status"]),ctx,"h").write("</p><pre>").reference(ctx.getPath(false, ["error","stack"]),ctx,"h").write("</pre>");}return body_0;})();
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(27)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(28)))
 
 /***/ }
 

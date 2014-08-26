@@ -4,7 +4,7 @@ webpackJsonp([3,18],{
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(dust) {(function(){dust.register("footer",body_0);function body_0(chk,ctx){return chk.write("<footer class=\"footer\">&#169; 2014</footer>");}return body_0;})();
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(27)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(28)))
 
 /***/ }
 

@@ -12,7 +12,7 @@
                     <a class="pull-right creator" target="_blank" href="{creator._webUrl}">
                         <img src="{creator.avatar.url}" alt="{creator.about}" title="{creator.about}"/>
                     </a>
-                    <p class="pull-right">Shot {createdAtRelative} {?venue}at <a target="_blank" href="{venue._webUrl}">{venue.name}</a>{/venue} by</p>
+                    <p class="pull-right created">Shot {createdAtRelative} {?venue}at <a target="_blank" href="{venue._webUrl}">{venue.name}</a>{/venue} by</p>
                     <p>{stats.views} views</p>
                 </small>
                 <p class="video-intro">{about}</p>

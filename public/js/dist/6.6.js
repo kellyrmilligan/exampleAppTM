@@ -4,7 +4,7 @@ webpackJsonp([6,18],{
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(dust) {(function(){dust.register("layout-error",body_0);function body_0(chk,ctx){return chk.write("<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\" /><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><title>Error</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1\"><link rel=\"stylesheet\" href=\"/stylesheets/app.css\" /></head><body><div class=\"wrapper\"><section id=\"main\"><div class=\"container\"><div class=\"row\">").block(ctx.getBlock("body"),ctx,{},null).write("</div></div></section></div></body></html>");}return body_0;})();
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(27)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(28)))
 
 /***/ }
 
